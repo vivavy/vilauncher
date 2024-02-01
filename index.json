@@ -1,5 +1,7 @@
 {
   "list": [
-    "null_project"
+    "launcher",
+    "null_project",
+    "hexos_emu"
   ]
 }
