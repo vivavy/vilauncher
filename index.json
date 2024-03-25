@@ -2,6 +2,7 @@
   "list": [
     "launcher",
     "null_project",
-    "hexos_emu"
+    "hexos_emu",
+    "jetpy"
   ]
 }
